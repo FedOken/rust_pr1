@@ -1,0 +1,1 @@
+Run `cargo run` then follow the instructions in the console.
