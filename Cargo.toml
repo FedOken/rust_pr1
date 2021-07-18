@@ -1,0 +1,15 @@
+[package]
+name = "pr1"
+version = "0.0.1"
+authors = ["me <agoodminute@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "geometry"
+path = "src/libs/geometry.rs"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
